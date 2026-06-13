@@ -26,4 +26,4 @@ jobs:
         run: dbt deps
 
       - name: Run dbt models
-          run: dbt run --select trg_orders
+        run: dbt run --select trg_orders

@@ -7,7 +7,8 @@
 }}
 
 
-
+SELECT *
+FROM DBT_DB.PROD.ORDERS
 
 {% if is_incremental() %}
 

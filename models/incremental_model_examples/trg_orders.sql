@@ -7,7 +7,6 @@
 }}
 
 
-Merge into 
 SELECT *
 FROM DBT_DB.PROD.ORDERS
 
